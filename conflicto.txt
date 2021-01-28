@@ -1,1 +1,2 @@
 Esto es un texto generado por Ruslan
+Esto es otro texto generado por Ruslan que va a generar un conflicto
