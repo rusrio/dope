@@ -1,2 +1,6 @@
 Esto es un texto generado por Ruslan
+<<<<<<< HEAD
 Esto es otro texto generado por Ruslan que va a generar un conflicto
+=======
+Esto es una línea generada por Santaigo buscando el conflicto.
+>>>>>>> 98644760f33a7936710b9d7befecdd76f8ce9641
